@@ -1,0 +1,57 @@
+{
+  "status": "approved",
+  "total_violations": 1,
+  "violations": [
+    {
+      "severity": "medium",
+      "line": 179,
+      "original_text": "통증이 극적으로 감소하는 경우가 많습니다",
+      "violation_type": "과장 표현 가능성",
+      "law_reference": "의료법 제56조 (허위과대 광고 금지)",
+      "reason": "'극적으로'는 과도한 효과를 암시할 수 있어 '크게'로 완화",
+      "corrected_text": "통증이 크게 감소하는 경우가 많습니다",
+      "auto_fix": true
+    }
+  ],
+  "warnings": [],
+  "compliance_score": 98,
+  "approved_expressions": [
+    "개인의 증상과 상태에 따라 치료 방법과 결과는 다를 수 있습니다",
+    "전문의와 상담하여 자신에게 맞는 치료 계획을 수립하는 것이 중요합니다",
+    "도움을 드립니다",
+    "기대할 수 있습니다",
+    "개인차가 있을 수 있습니다"
+  ],
+  "hospital_mentions": 6,
+  "hospital_mention_ratio": "약 15-18%",
+  "hospital_mention_assessment": "적절한 수준. 자연스럽게 문맥에 통합되어 있으며 과도한 홍보가 아님. 각 섹션에서 검사/치료 정보와 함께 병원 시스템을 안내.",
+  "positive_aspects": [
+    "확정적 효과 표현 없음 (완치, 100% 등)",
+    "비교우위 표현 없음 (최고, 최상 등)",
+    "환자 유인 행위 없음 (할인, 이벤트 등)",
+    "개인차 언급 ('개인의 증상과 상태에 따라 치료 방법과 결과는 다를 수 있습니다')",
+    "전문의 상담 권유 포함",
+    "객관적이고 균형 잡힌 의료 정보 제공",
+    "이미지 가이드에 실제 환자 사진 사용 금지 원칙 반영",
+    "일러스트 및 다이어그램 사용으로 교육 목적 강조"
+  ],
+  "recommendations": [
+    "전체적으로 의료법을 매우 잘 준수하고 있습니다",
+    "이미지 가이드가 디자이너용과 AI 생성용 두 가지로 제공되어 실용성이 높습니다",
+    "병원 홍보가 자연스럽게 통합되어 있으며 검사/치료 정보와 함께 제공됩니다",
+    "노인 독자를 고려한 친근하고 이해하기 쉬운 표현 사용"
+  ],
+  "overall_assessment": {
+    "medical_law_compliance": "우수",
+    "content_quality": "우수",
+    "seo_optimization": "적절 (키워드 배치, 구조화)",
+    "readability": "고령 독자에게 매우 적합",
+    "image_guides": "디자이너용 가이드 및 AI 프롬프트 모두 제공. 의료법 준수",
+    "hospital_promotion": "적절한 비율 (15-18%), 자연스러운 통합"
+  },
+  "final_status": "approved_for_publication",
+  "output_file": "temp/draft_revised.md",
+  "review_date": "2026-01-20",
+  "word_count": "약 3500자",
+  "image_count": 6
+}
