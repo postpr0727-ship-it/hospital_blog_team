@@ -21,10 +21,15 @@
   - **키워드 기반 테마 자동 선택** (8개 테마 중)
   - 이미지 통일성을 위한 색상/디자인 스타일 결정
 
-### 2단계: Researcher (agents/researcher.md)
+### 2단계: Researcher (agents/researcher.md) ⭐ 자동 정보 수집
 - 입력: `temp/outline.json`
 - 출력: `temp/research.json`
-- 역할: 의료 정보 리서치, 통계, 팁
+- **역할**:
+  - **WebSearch 자동 실행** (본론 4개 섹션당 1회, 총 4회)
+  - **신뢰할 수 있는 출처**: 질병관리청, 대한의학회, 대학병원 등 Level 1 출처 우선
+  - **의료법 1차 필터링**: 과장 표현 자동 제거
+  - 의료 정보 리서치, 통계, 팁 수집
+  - 출처 명시 (references 필드에 4개 이상)
 
 ### 3단계: Writer (agents/writer.md)
 - 입력: `temp/outline.json` + `temp/research.json`

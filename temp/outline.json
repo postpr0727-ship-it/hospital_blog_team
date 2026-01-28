@@ -1,92 +1,135 @@
 {
-  "keyword": "손목 건초염",
-  "title": "김포 손목 건초염 치료, 비수술로 가능할까?",
-  "target_audience": "30-50대 가정주부, 직장인, 산모",
+  "keyword": "손목건초염",
+  "title": "김포 손목건초염 원인과 치료, 정형외과 전문의",
+  "target_audience": "30-50대 손목을 많이 사용하는 직장인, 주부, 육아맘",
+  "search_intent": "정보형",
+  "search_intent_details": {
+    "type": "정보형 검색",
+    "user_intent": "손목건초염의 원인과 증상 이해, 자가진단",
+    "content_strategy": "상세 설명, 리스트, 비교 표, 자가진단 체크리스트",
+    "keyword_pattern": "원인, 증상, 치료법, 예방법"
+  },
   "tone": "친근하고 전문적",
   "theme": {
-    "name": "calm_purple",
-    "description": "차분함과 안정감을 주는 보라색 테마",
+    "name": "gentle_pink",
+    "description": "부드럽고 온화한 케어 테마",
     "color_palette": {
-      "primary": "#B4A7D6",
-      "secondary": "#D5BADB",
-      "accent": "#C8A2C8",
-      "background": "#F5F3EE",
-      "text": "#2C3E50"
+      "primary": "#FFB8D1",
+      "secondary": "#FDE2E4",
+      "accent": "#F8BBD0",
+      "background": "#FFF9FA",
+      "text_dark": "#2C3E50",
+      "text_light": "#FFFFFF",
+      "gradient_start": "#FFB8D1",
+      "gradient_end": "#FDE2E4"
     },
     "typography": {
-      "title_size": "36pt",
-      "body_size": "18pt"
+      "title_style": "부드럽고 친근한 고딕체",
+      "title_size": "32-36pt",
+      "body_style": "깔끔한 중간 두께",
+      "body_size": "16-20pt",
+      "label_size": "12-14pt"
     },
     "design_style": {
-      "primary_trend": "glassmorphism",
-      "secondary_trend": "soft_gradient"
+      "primary_trend": "soft_gradient",
+      "secondary_trend": "rounded_shapes",
+      "shape_style": "organic_curves",
+      "shadow": "0 4px 20px rgba(255,184,209,0.2)",
+      "border_radius": "20px",
+      "icon_style": "friendly_illustration"
     },
     "layout": {
-      "spacing": "충분한 여백"
+      "spacing": "충분한 여백 (부드러운 느낌)",
+      "card_background": "rgba(253,226,228,0.3) with soft blur"
     }
   },
   "outline": [
     {
       "section": "서론",
-      "title": "엄지손가락이 찌릿하고 아프신가요?",
+      "title": "손목건초염, 왜 생기는 걸까요?",
       "key_points": [
-        "손목 건초염 정의",
-        "일상생활의 불편함",
-        "스마트폰 사용 증가"
+        "손목 통증으로 일상생활이 불편한 상황 공감",
+        "손목건초염의 흔함과 증가 추세",
+        "글의 내용 예고"
       ]
     },
     {
       "section": "본론1",
-      "title": "손목 건초염, 왜 생기는 걸까요?",
+      "title": "손목건초염의 주요 원인은 무엇일까요?",
       "key_points": [
-        "드퀘르벵 병",
-        "과도한 사용",
-        "육아, 가사노동, 스마트폰"
+        "반복적인 손목 사용 (스마트폰, 컴퓨터)",
+        "육아로 인한 과도한 손목 사용",
+        "잘못된 자세와 동작",
+        "호르몬 변화 (임신, 갱년기)",
+        "연령 증가에 따른 퇴행성 변화"
       ]
     },
     {
       "section": "본론2",
-      "title": "자가진단법, 핑켈스타인 테스트란?",
+      "title": "정확한 진단, 어떻게 받을까요?",
       "key_points": [
-        "자가진단 방법 설명",
-        "정확한 진단의 중요성",
-        "초음파 검사"
+        "특징적인 증상 (엄지손가락 통증, 손목 통증)",
+        "핀켈스타인 검사 (Finkelstein test)",
+        "초음파 검사",
+        "X-ray 검사 (다른 질환 감별)",
+        "김포다조은병원 정형외과 진단 과정"
       ]
     },
     {
       "section": "본론3",
-      "title": "수술 없이 치료할 수 있나요?",
+      "title": "손목건초염 치료 방법",
       "key_points": [
-        "보존적 치료 우선",
-        "약물치료",
-        "주사치료",
-        "체외충격파(ESWT)"
+        "보존적 치료 (휴식, 냉찜질)",
+        "약물 치료 (소염진통제)",
+        "부목 고정",
+        "주사 치료 (스테로이드)",
+        "물리치료",
+        "수술적 치료 (보존적 치료 실패 시)",
+        "김포다조은병원 치료 프로그램"
       ]
     },
     {
       "section": "본론4",
-      "title": "재발을 막는 생활 습관은?",
+      "title": "재활과 예방, 무엇이 중요할까요?",
       "key_points": [
-        "손목 스트레칭 방법",
-        "보호대 착용",
-        "충분한 휴식"
+        "스트레칭 운동",
+        "근력 강화 운동",
+        "올바른 손목 자세",
+        "휴식과 과사용 주의",
+        "예방 생활 습관",
+        "재발 방지 방법"
       ]
     },
     {
       "section": "결론",
-      "title": "김포다조은병원에서 정확한 진단을",
+      "title": "전문가와 상담이 필요합니다",
       "key_points": [
-        "조기 치료 권장",
-        "전문의 상담 안내"
+        "조기 진단과 치료의 중요성",
+        "김포다조은병원 정형외과 상담 권유",
+        "건강한 손목 관리로 일상 회복"
       ]
     }
   ],
   "estimated_length": "3000-3500자",
   "seo_keywords": [
-    "손목 건초염",
-    "김포 손목 통증",
-    "드퀘르벵",
-    "손목 치료",
-    "김포다조은병원"
+    "손목건초염",
+    "김포 손목건초염",
+    "손목건초염 원인",
+    "손목건초염 치료",
+    "김포 정형외과",
+    "김포다조은병원",
+    "드퀘르벵병",
+    "손목 통증",
+    "엄지손가락 통증",
+    "손목건초염 증상",
+    "손목건초염 자가진단",
+    "손목건초염 스트레칭"
+  ],
+  "longtail_keywords": [
+    "육아맘 손목건초염",
+    "스마트폰 손목건초염",
+    "손목건초염 자가진단 방법",
+    "김포 손목건초염 병원",
+    "손목건초염 주사 치료"
   ]
 }
